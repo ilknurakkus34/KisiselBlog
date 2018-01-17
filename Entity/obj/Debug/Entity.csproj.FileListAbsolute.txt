@@ -1,0 +1,82 @@
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\Entity.dll.config
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\Entity.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\Entity.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\EntityFramework.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\EntityFramework.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\obj\Debug\Entity.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\Entity\obj\Debug\Entity.pdb
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.dll.config
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.pdb
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.pdb
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.dll.config
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.pdb
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.xml
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.pdb
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.dll.config
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.pdb
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.pdb
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.dll.config
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.pdb
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.pdb
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.dll.config
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Entity.pdb
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\Entity\obj\Debug\Entity.pdb

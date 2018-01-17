@@ -1,0 +1,120 @@
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\DAL.dll.config
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\DAL.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\DAL.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\Entity.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\EntityFramework.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\Entity.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\EntityFramework.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\obj\Debug\DAL.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\obj\Debug\DAL.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.kurulum.resources
+c:\users\nuuklu\documents\visual studio 2015\Projects\KozmetikBlog\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Entity.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Entity.pdb
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.kurulum.resources
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.pdb
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.dll.config
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.pdb
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Entity.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Entity.pdb
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.xml
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.kurulum.resources
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.dll
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.pdb
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.makale.resources
+C:\Users\nuuklu\Desktop\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.makaleekle.resources
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Entity.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Entity.pdb
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.kurulum.resources
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\KozmetikBlogSon\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.eklenen.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Entity.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Entity.pdb
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.kurulum.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.eklenen.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.eklenen1.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.eklenen2.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.eklenen3.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Entity.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Entity.pdb
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.kurulum.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.eklenen.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.eklenen1.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.eklenen2.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.eklenen3.resources
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.dll
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Desktop\BLOG PROJE ÖNEMLİ\Proje Son Hali\KisiselBlog\KozmetikBlog3\KozmetikBlog\KozmetikBlog\DAL\obj\Debug\DAL.Migrations.eklenen4.resources

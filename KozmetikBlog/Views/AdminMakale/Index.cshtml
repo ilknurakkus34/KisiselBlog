@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Entity.Models.Makale>
+@using Entity.Models
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layoutyönetim.cshtml";
+}
+
+<h2>Makaleler</h2>
+
+<p>
+    @Html.ActionLink("Yeni Makale", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Kategori.KategoriAdi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.EklenmeTarihi)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (Makale item in Model)
+{
+    <a href="/AdminMakale/Details/@item.MakaleID"><h1>@item.Title</h1></a>
+    
+
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kategori.KategoriAdi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.EklenmeTarihi)
+        </td>
+        <td>
+           |
+            @Html.ActionLink("Sil", "Delete", new { id=item.MakaleID })
+        </td>
+    </tr>
+}
+
+</table>

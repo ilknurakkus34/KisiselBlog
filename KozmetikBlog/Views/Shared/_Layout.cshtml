@@ -1,0 +1,104 @@
+﻿@*@{ 
+    if (Session["yetkiID"] == null)
+    {
+        Response.Redirect("~/Home/Index");
+    }
+    if (Convert.ToInt32(Session["yetkiID"]) != 1)
+    {
+        Response.Redirect("~/Home/Index");
+    }
+}*@
+
+<!DOCTYPE html>
+
+<!--
+Template Name: Artland
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html>
+<head>
+    <title>@ViewBag.Title - İLKNUR AKKUŞ</title>
+    @Styles.Render("~/Content/css")
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="/Content/artland/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body id="top">
+    
+    <div class="bgded overlay" style="background-image:url('/Content/artland/images/demo/backgrounds/gif.jpg');">
+        
+        <div class="wrapper row1">
+           
+            <header id="header" class="hoc clear">
+               
+                <div id="logo" class="fl_left">
+                    <h1><a href="index.html">İlknur Akkuş</a></h1>
+                </div>                
+                <nav id="mainav" class="fl_right">
+                    <ul class="clear">
+                        <li class="active"><a href="/Home/Index">Anasayfa</a></li>
+                        <li><a class="drop" >Blogumda Neler Var?</a>
+                            <ul>
+                                <li><a>Genel</a></li>                               
+                                <li><a>Yaşama Dair</a></li>
+                                <li><a>Kişisel Gelişim</a></li>
+                                <li><a>Güzellik</a></li>                                
+                                <li><a>Film&Dizi Önerilerim</a></li>                                
+                                <li><a>Blogger Günlüğüm</a></li>
+                            </ul>
+                        </li>
+                        <li><a class="drop" href="/Home/Hakkımda">Hakkımda</a></li>
+                        
+                        @if (Session["KullaniciID"] != null)
+                        {
+                            <li><a href="/Uye/Index">@Session["KullaniciAdSoyad"].ToString()</a></li>
+                            <li><a href="/Uye/Logout">Çıkış</a></li>
+
+                            if (Convert.ToInt32(Session["yetkiID"]) == 1)
+                            {
+                                      <li><a href="/Admin/Index">Admin Paneli</a></li>
+                            }
+                        }
+                        else
+                        {
+                            <li><a href="/Uye/Login">Giriş</a></li>
+                        }
+
+                    </ul>                                                                  
+                </nav>
+               
+            </header>
+        </div>
+        
+        @RenderSection("Slider",false)
+       
+    </div>
+   
+  
+    @RenderBody()
+    
+    <div class="wrapper row5">
+        <div id="copyright" class="hoc clear">
+          
+            <p class="fl_left">Copyright &copy; 2017 -İlknur Akkuş- <a href="#">ilknurakkus</a></p>
+            <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+           
+        </div>
+    </div>
+   
+    <a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
+
+   
+
+    <!-- JAVASCRIPTS -->
+    <script src="/Content/artland/layout/scripts/jquery.min.js"></script>
+    <script src="/Content/artland/layout/scripts/jquery.backtotop.js"></script>
+    <script src="/Content/artland/layout/scripts/jquery.mobilemenu.js"></script>
+    <script src="/Content/artland/layout/scripts/jquery.flexslider-min.js"></script>
+
+    @RenderSection("Scripts",false)
+</body>
+</html>

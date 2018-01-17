@@ -1,0 +1,68 @@
+﻿@model Entity.Models.Makale
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<h2>İlknur'un Seçimi</h2>
+
+<section class="banner-section"></section>
+<section class="post-content-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 post-title-block">
+
+                <h1 class="text-center">@Model.Title</h1>
+                <ul class="list-inline text-center">
+                    <li>İlknur Akkuş |</li>
+                    <li>Hayata Dair Herşey-İlknur'un Seçimi |</li>
+                    <li>@Model.EklenmeTarihi.ToShortDateString() |</li>
+                </ul>
+            </div>
+            <div class="col-lg-9 col-md-9 col-sm-12">
+                @Html.Raw(Model.Content)
+            </div>
+
+            <div class="col-lg-3  col-md-3 col-sm-12">
+                
+                <div class="well">
+                    <h2>Oylama yapmak istermisin?</h2>
+                    <ul class="list-inline">
+                        <li><span class="glyphicon glyphicon-heart star" aria-hidden="true"  rel="1"></span></li>
+                        <li><span class="glyphicon glyphicon-heart star" aria-hidden="true" rel="2"></span></li>
+                        <li><span class="glyphicon glyphicon-heart star" aria-hidden="true" rel="3"></span></li>
+                        <li><span class="glyphicon glyphicon-heart star" aria-hidden="true" rel="4"></span></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@section Scripts {
+    <script>
+        $(".star").click(function () {
+            var point = $(this).attr("rel");
+            console.log(point);
+            for (var i = 0; i < point; i++) {
+                $(".star").eq(i).addClass("secili");
+            }
+
+            $.ajax({
+                url:"/AdminMakale/OyVer/"+@Model.MakaleID,
+                data:{"points":point},
+                method: "POST",
+                success: function(data){
+                    alert(data);
+                }
+            });
+
+        });    
+    </script>
+    
+    
+}
+ 
+   
